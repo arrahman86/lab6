@@ -1,1 +1,1 @@
-# lab6: I am working on lab 66
+# lab6: I am working on lab 6
